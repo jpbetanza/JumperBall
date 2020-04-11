@@ -8,7 +8,8 @@ Não há nada muito complexo. Como o jogo foi feito usando apenas HTML e Javascr
 
 ### Pré-requisitos
 
-Algum programa de compactação para extrair os arquivos do Zip que você baixará e, provavelmente, qualquer navegador (mas meus testes foram todos feitos no Chrome)
+Algum programa de compactação para extrair os arquivos do Zip que você baixará e, provavelmente, qualquer navegador.
+(Note que todo o meu desenvolvimento foi feito no Chrome)
 
 ## Como jogar
 
