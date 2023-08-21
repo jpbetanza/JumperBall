@@ -1,6 +1,6 @@
 function inicioFuncao(){
 	titulo={
-		texto: 'Jogo mais fácil de se fazer no P5JS do que a tentativa anterior',
+		texto: 'JumperBall',
 		tamanhoTitulo:windowWidth*0.0234,
 		mostrarTitulo: function(){
 			fill(255)
