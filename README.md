@@ -1,6 +1,6 @@
-# JogoSimplesP5js
+# JumperBall
 
-Esse foi o meu trabalho para a nota da última unidade da disciplina de Lógica de programação. É uma cópia bem limitada do jogo "Doodle Jump".
+Esse foi o meu trabalho para a nota da última unidade da disciplina de Lógica de programação. Trata-se de um jog inspirado no famoso jogo mobile "Doodle Jump".
 
 ## Como testar
 
@@ -25,4 +25,4 @@ Você ganha se chegar a 60 pontos.
 
 ## Autores
 
-* **João Pedro Betanza Dal Caro** - *Fez todo o projeto* - [jpbetanza](https://github.com/jpbetanza)
+* **João Pedro Betanza Dal Caro** - *Autor* - [jpbetanza](https://github.com/jpbetanza)
