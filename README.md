@@ -4,7 +4,7 @@ Esse foi o meu trabalho para a nota da última unidade da disciplina de Lógica 
 
 ## Como testar
 
-Você pode acessar esse site para jogar o jogo! [https://jumper-ball.vercel.app/]
+Você pode acessar esse site para jogar o jogo! https://jumper-ball.vercel.app/
 
 
 ## Como jogar
